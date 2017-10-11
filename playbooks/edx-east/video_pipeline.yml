@@ -10,4 +10,5 @@
       nginx_default_sites:
         - pipeline
     - aws
+    - oauth_client_setup
     - role: video_pipeline
